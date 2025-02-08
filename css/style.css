@@ -18,14 +18,8 @@ body {
         --shadow-color: rgba(0, 0, 0, 0.05);
     }
     
-    .dark-mode {
-      --background-color: #222;
-      --text-color: #fff;
-      --accent-color: #73c2fb;
-      --hover-color: #60b2e8;
-      --card-background: #333;
-      --shadow-color: rgba(255, 255, 255, 0.05);
-    }
+   
+
  img {
 max-width: 100%; /* Makes images responsive */
 height: auto;
